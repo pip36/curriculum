@@ -12,6 +12,7 @@ This is a great project to have as a part of your portfolio going forward becaus
 
 ### Your Task
 
+
 1. **Build a command line Chess game where two players can play against each other.**
 2. The game should be properly constrained -- it should prevent players from making illegal moves and declare check or check mate in the correct situations.
 3. Make it so you can save the board at any time (remember how to serialize?)
@@ -25,6 +26,7 @@ This is a great project to have as a part of your portfolio going forward becaus
 *Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.*
 
 * Add your solution below this line!
+* [Phil's solution(javascript)](https://github.com/pip36/j_chess) | [View in browser](https://pip36.github.io/j_chess/)
 * [Jonathan Yiv's solution](https://github.com/JonathanYiv/chess)
 * [Kasey Z's solution](https://github.com/kasey-z/chess_game/tree/master/chess_game)
 * [Clayton Sweeten's solution](https://github.com/cjsweeten101/OdinProjects/tree/master/chess)
